@@ -4032,7 +4032,7 @@ local function func_strongGrab()
 	strongGrabWindow = StrongGrabWindow(screenGui)
 end
 
-local window = MenuWindow('MWS Toolkit Secure version', screenGui)
+local window = MenuWindow('MWS Toolkit Secured', screenGui)
 
 window:MakeLabel('Build Zone')
 window:MakeBtn('Abandon Build Zone', func_abandon)
